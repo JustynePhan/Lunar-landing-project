@@ -1,5 +1,5 @@
 # Lunar-landing-project
-# Deep Q-Learning for Lunar Landing
+
 
 - This repository contains code for training an AI agent using Deep Q-Learning to solve the LunarLander-v2 environment from OpenAI Gym.
 - The agent learns to navigate a lunar lander to a designated landing pad using thrusters while avoiding crashing or landing outside the pad.
